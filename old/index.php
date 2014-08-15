@@ -105,7 +105,7 @@ if(isset($_GET["page"])){
 
 <td width=18% valign=top><center>
 <table border=0 cellpadding=10 cellspacing=5><tr><td bgcolor=black width=100% height=55>
-<center><img src=/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 Misc.<br><br>
 </b></center>
 
@@ -116,7 +116,7 @@ Misc.<br><br>
 </td></tr>
 
 <tr><td bgcolor=black valign=top width=100%>
-<center><img src=/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 <br><br>
 </b></center>
 
