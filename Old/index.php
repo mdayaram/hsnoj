@@ -27,7 +27,7 @@ td { font-size: 8pt; font-family: verdana; color: #ffffff; }
 li { font-size: 8pt; font-family: verdana; color: #ffffff; }
 
 .header {
-background-image: url(http://noj.hiya-host.com/images/g_header.gif);
+background-image: url(images/g_header.gif);
 background-repeat: no-repeat;
 background-position: center; 
 }
@@ -43,26 +43,26 @@ background-position: center;
 
 
 <tr><td bgcolor=black valign=top align=left width=100%>
-<center><img src=http://noj.hiya-host.com/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 Stuff!<br><br>
 </b></center>
 
-<a href="http://noj.hiya-host.com/index.php?name=Home&page=http://noj.hiya-host.com/home.php">Home</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=Guest Book&page=http://noj.hiya-host.com/gb/index.html">Guest Book</a><br>
+<a href="index.php?name=Home&page=home.php">Home</a><br>
+<a href="index.php?name=Guest Book&page=gb/index.html">Guest Book</a><br>
 
 </td></tr>
 
 <tr><td bgcolor=black valign=top align=left width=100%>
-<center><img src=http://noj.hiya-host.com/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 Applets<br><br>
 </b></center>
 
-<a href="http://noj.hiya-host.com/index.php?id=1&name=Calculator Applet&page=http://noj.hiya-host.com/applets/calculator.php">Calculator</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=5 Card Draw Poker&page=http://noj.hiya-host.com/applets/poker.php">Five Card Draw</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=Binary Clock&page=http://noj.hiya-host.com/applets/bclock.php">Binary Clock</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=Number Guess Applet&page=http://noj.hiya-host.com/applets/nguess.php">Number Guessing Game</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=Craps Applet&page=http://noj.hiya-host.com/applets/craps.php">Craps Game</a><br>
-<a href="http://noj.hiya-host.com/index.php?name=SAT Vocab Test&page=http://noj.hiya-host.com/applets/satvocab.php">Vocab Test</a><br>
+<a href="index.php?id=1&name=Calculator Applet&page=applets/calculator.php">Calculator</a><br>
+<a href="index.php?name=5 Card Draw Poker&page=applets/poker.php">Five Card Draw</a><br>
+<a href="index.php?name=Binary Clock&page=applets/bclock.php">Binary Clock</a><br>
+<a href="index.php?name=Number Guess Applet&page=applets/nguess.php">Number Guessing Game</a><br>
+<a href="index.php?name=Craps Applet&page=applets/craps.php">Craps Game</a><br>
+<a href="index.php?name=SAT Vocab Test&page=applets/satvocab.php">Vocab Test</a><br>
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ if(isset($_GET["page"])){
 </td></tr>
 <tr><td valign=bottom align=center>
 <br><br><br>
-<a href="http://noj.hiya-host.com/index.php?name=Copyright&page=http://noj.hiya-host.com/copyright.php">Copyright &copy; 2005.</a>
+<a href="index.php?name=Copyright&page=copyright.php">Copyright &copy; 2005.</a>
 </tr></td></table></center>
 
 </td></tr>

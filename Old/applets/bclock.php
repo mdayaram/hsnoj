@@ -10,7 +10,7 @@ Comments
 <hr>
 <table width=20% cellpadding=3 cellspacing=0>
 <tr><td align=left valign=top>
-<form method="POST" action="http://noj.hiya-host.com/commentwriter.php">
+<form method="POST" action="commentwriter.php">
 Name: <br><input type="text" name="name" size="25">
 Message: <br><textarea name="message"></textarea><br>
 <input type="submit" value="Submit" name="B1">

@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv='refresh' content='0;URL=http://noj.hiya-host.com/index.php?name=Guest Book&page=http://noj.hiya-host.com/gb/index.html'>
+<meta http-equiv='refresh' content='0;URL=index.php?name=Guest Book&page=gb/index.html'>
 </head>
 <body bgcolor=black text=white link=green>
 <?php
@@ -37,7 +37,7 @@ $time = "<i>".date("M dS, Y @ $hour:i")."</i><br>" ;
 fwrite($file, "$time<b>$name</b> says...<br>$message<hr>\n\n"); 
 
 echo "<center>Ok, you can go back now.  If you're not redirected in a few seconds, just click link below.";
-echo '<br><br>[<a href="http://noj.hiya-host.com/index.php?name=Guest Book&page=http://noj.hiya-host.com/gb/index.html">back</a>]';
+echo '<br><br>[<a href="index.php?name=Guest Book&page=gb/index.html">back</a>]';
 
 ?>
 </body>

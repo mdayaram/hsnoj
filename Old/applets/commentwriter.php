@@ -35,6 +35,6 @@ if($_POST["go"] == 104){
 
   fwrite($file, "$time<b>$name</b> says...<br>$message<hr>\n\n");
 
-  echo "<meta http-equiv='refresh' content='0;http://noj.hiya-host.com/index.php?name=$id&page=http://noj.hiya-host.com/$loc'>";
+  echo "<meta http-equiv='refresh' content='0;index.php?name=$id&page=$loc'>";
 }
 ?>

@@ -27,7 +27,7 @@ td { font-size: 8pt; font-family: verdana; color: #ffffff; }
 li { font-size: 8pt; font-family: verdana; color: #ffffff; }
 
 .header {
-background-image: url(http://noj.hiya-host.us/images/g_header.gif);
+background-image: url(images/g_header.gif);
 background-repeat: no-repeat;
 background-position: center; 
 }
@@ -43,26 +43,26 @@ background-position: center;
 
 
 <tr><td bgcolor=black valign=top align=left width=100%>
-<center><img src=http://noj.hiya-host.us/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 Stuff!<br><br>
 </b></center>
 
-<a href="http://noj.hiya-host.us/index.php?name=Home&page=http://noj.hiya-host.us/home.php">Home</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=Guest Book&page=http://noj.hiya-host.us/gb/index.html">Guest Book</a><br>
+<a href="index.php?name=Home&page=home.php">Home</a><br>
+<a href="index.php?name=Guest Book&page=gb/index.html">Guest Book</a><br>
 
 </td></tr>
 
 <tr><td bgcolor=black valign=top align=left width=100%>
-<center><img src=http://noj.hiya-host.us/images/g_miniheader.gif><br><b>
+<center><img src=images/g_miniheader.gif><br><b>
 Applets<br><br>
 </b></center>
 
-<a href="http://noj.hiya-host.us/index.php?name=Calculator Applet&tag=applet&page=http://noj.hiya-host.us/applets/calculator.html">Calculator</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=5 Card Draw Poker&tag=applet&page=http://noj.hiya-host.us/applets/poker.html">Five Card Draw</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=Binary Clock&tag=applet&page=http://noj.hiya-host.us/applets/bclock.html">Binary Clock</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=Number Guess Applet&tag=applet&page=http://noj.hiya-host.us/applets/nguess.html">Number Guessing Game</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=Craps Applet&tag=applet&page=http://noj.hiya-host.us/applets/craps.html">Craps Game</a><br>
-<a href="http://noj.hiya-host.us/index.php?name=SAT Vocab Test&tag=applet&page=http://noj.hiya-host.us/applets/satvocab.html">Vocab Test</a><br>
+<a href="index.php?name=Calculator Applet&tag=applet&page=applets/calculator.html">Calculator</a><br>
+<a href="index.php?name=5 Card Draw Poker&tag=applet&page=applets/poker.html">Five Card Draw</a><br>
+<a href="index.php?name=Binary Clock&tag=applet&page=applets/bclock.html">Binary Clock</a><br>
+<a href="index.php?name=Number Guess Applet&tag=applet&page=applets/nguess.html">Number Guessing Game</a><br>
+<a href="index.php?name=Craps Applet&tag=applet&page=applets/craps.html">Craps Game</a><br>
+<a href="index.php?name=SAT Vocab Test&tag=applet&page=applets/satvocab.html">Vocab Test</a><br>
 
 </td>
 </tr>
