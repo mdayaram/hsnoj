@@ -19,10 +19,10 @@
 <a href="/media.php">Media</a>
 </td></tr>
 <tr><td>
-<a href="">stuff</a>
+<a href="/physics">Physics</a>
 </td></tr>
 <tr><td>
-<a href="">stuff</a>
+<a href="/old">Old Website</a>
 </td></tr>
 </table>
 
