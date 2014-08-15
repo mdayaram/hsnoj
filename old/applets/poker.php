@@ -1,7 +1,7 @@
 <table width=100% border=0 cellpadding=0 cellspacing=0>
 <tr><td bgcolor=black valign=top>
 <center>
-<applet code="PokerApp.class" width=650 height=435 codebase="applets/">
+<applet code="/applets/PokerApp.class" width=650 height=435 codebase="/applets/">
 </applet>
 <br><br>
 

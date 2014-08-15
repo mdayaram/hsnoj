@@ -1,7 +1,7 @@
 <table width=100% border=0 cellpadding=0 cellspacing=0>
 <tr><td bgcolor=black valign=top>
 <center>
-<applet code="CrapsApplet.class" width=345 height=160 codebase="applets/">
+<applet code="/applets/CrapsApplet.class" width=345 height=160 codebase="/applets/">
 </applet>
 <br><br>
 

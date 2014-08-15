@@ -1,7 +1,7 @@
 <table width=100% border=0 cellpadding=0 cellspacing=0>
 <tr><td bgcolor=black valign=top>
 <center>
-<applet code="BinaryClock.class"  width="200" height="143" codebase="applets/">
+<applet code="/applets/BinaryClock.class"  width="200" height="143" codebase="/applets/">
 </applet>
 <br><br>
 

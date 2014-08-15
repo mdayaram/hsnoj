@@ -1,5 +1,5 @@
 <center>
-<applet code="BinaryClock.class"  width="200" height="143" codebase="applets/" height=143 width=200>
+<applet code="/applets/BinaryClock.class"  width="200" height="143" codebase="/applets/" height=143 width=200>
 </applet>
 <br><br>
 Comments:<br>
