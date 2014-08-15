@@ -11,7 +11,7 @@ td.resp{ text-align: left; vertical-align: text-bottom;}
 </style>
 </head>
 <?php
-include('/src/headTemplate.inc');
+include('./src/headTemplate.inc');
 ?>
 <h3>"You're sexy and brown, share it with the world!" <small>~Lawson Bake</small></h3>
 OK!
@@ -289,5 +289,5 @@ Bored, tired, single, brown.
 Not enough?!?  Need more Noj??!  <a href="/contact.php">Email me</a> with questions and I'll post them up here.
 
 <?php
-include('/src/endTemplate.inc');
+include('./src/endTemplate.inc');
 ?>

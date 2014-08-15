@@ -88,7 +88,7 @@ echo '<center><table width=90% border=0 cellpadding=0 cellspacing=0><tr><td vali
 if(isset($_GET["page"])){
    include($_GET["page"]);
 }else{
-   include("http://noj.hiya-host.com/home.php");
+   include("home.php");
 }
 
 ?>

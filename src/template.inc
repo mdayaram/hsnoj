@@ -16,7 +16,7 @@ echo "$titleCookie";
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <?php
-include('/inc/quote.inc');
+include('./inc/quote.inc');
 ?>
 </tr></td>
 <tr>
@@ -47,7 +47,7 @@ echo "$contentCookie";
 <td align="center" valign="top">
 
 <?php
-include('/inc/linkage.inc');
+include('./inc/linkage.inc');
 ?>
 
 <br>

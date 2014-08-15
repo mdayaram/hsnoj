@@ -6,7 +6,7 @@ Applets
 <link rel="stylesheet" href="/src/main.css" type="text/css">
 </head>
 <?php
-include('/src/headTemplate.inc');
+include('./src/headTemplate.inc');
 ?>
 <h3>Media</h3>
 <p>Yes, a media section.  How fun.  However, it seems that there are many kinds of media.  Oh dear, what to do.  Just throw it all into one page?  What lack of organization.  No.  We musn't.  But then, how?  A page for all?  Nay.  Too many, too much clutter.  Oh my, what is a boy to do?</p>
@@ -26,5 +26,5 @@ include('/src/headTemplate.inc');
 
 And that's pretty much the media page for now.  What fun!  I didn't have anything to do with more than half the shit in here!
 <?php
-include('/src/endTemplate.inc');
+include('./src/endTemplate.inc');
 ?>

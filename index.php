@@ -20,7 +20,7 @@ a:hover { color: #66cc00; text-decoration: underline;}
 </STYLE>
 </head>
 <?php
-include('src/headTemplate.inc');
+include('./src/headTemplate.inc');
 ?>
 
 
@@ -60,5 +60,5 @@ Empty for now, but hey, I see potential.
 </center>
 
 <?php
-include('src/endTemplate.inc');
+include('./src/endTemplate.inc');
 ?>

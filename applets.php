@@ -6,7 +6,7 @@ Applets
 <link rel="stylesheet" href="/src/main.css" type="text/css">
 </head>
 <?php
-include('/src/headTemplate.inc');
+include('./src/headTemplate.inc');
 ?>
 <h3>Applets</h3>
 <p>Here are some applets.  All are made by either me or Will Battistelli.  In a selective few, both of us worked on them.  Anyways.  Have your fun with them.  Most of them are very incomplete as you can see, and some may even have a few bugs.  Source code is available though, so if you feel like you can improve, just <a href="contact.php">email me</a> the new <b>.java</b> files.  Credit will be given.</p>
@@ -56,5 +56,5 @@ include('/src/headTemplate.inc');
 <br><br>
 *Pictures made by Lawson Bake.
 <?php
-include('/src/endTemplate.inc');
+include('./src/endTemplate.inc');
 ?>

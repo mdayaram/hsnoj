@@ -90,7 +90,7 @@ if($tag==applet){
 }else if($page){
 	include("$page");
 }else{
-	include("http://noj.hiya-host.us/home.php"); 
+	include("home.php"); 
 } 
 
 
@@ -99,7 +99,7 @@ if($tag==applet){
 </td></tr>
 <tr><td valign=bottom align=center>
 <br><br><br>
-<a href="http://noj.hiya-host.us/index.php?name=Copyright&page=http://noj.hiya-host.us/copyright.php">Copyright &copy; 2005.</a>
+<a href="/index.php?name=Copyright&page=copyright.php">Copyright &copy; 2005.</a>
 </tr></td></table></center>
 
 </td></tr>
