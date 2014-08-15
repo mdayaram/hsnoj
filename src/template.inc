@@ -16,7 +16,7 @@ echo "$titleCookie";
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <?php
-include('http://noj.ugtech.net/inc/quote.inc');
+include('/inc/quote.inc');
 ?>
 </tr></td>
 <tr>
@@ -47,18 +47,18 @@ echo "$contentCookie";
 <td align="center" valign="top">
 
 <?php
-include('http://noj.ugtech.net/inc/linkage.inc');
+include('/inc/linkage.inc');
 ?>
 
 <br>
-<img src="http://noj.ugtech.net/notecoffee.png">
+<img src="/notecoffee.png">
 
 </td></tr>
 </table>
 
 </tr></td>
 <tr><td align="center">
-Copyright <a href="http://noj.ugtech.net/contact.php">Noj</a> © 2005
+Copyright <a href="/contact.php">Noj</a> © 2005
 <br><br>
 </td></tr>
 </table>

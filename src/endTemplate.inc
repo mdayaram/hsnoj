@@ -7,16 +7,16 @@
 
 <table cellpadding="2" cellspacing="1" width="125" border="1">
 <tr><td>
-<a href="http://noj.ugtech.net/index.php">Home</a>
+<a href="/index.php">Home</a>
 </td></tr>
 <tr><td>
-<a href="http://noj.ugtech.net/applets.php">Applets</a>
+<a href="/applets.php">Applets</a>
 </td></tr>
 <tr><td>
-<a href="http://noj.ugtech.net/revealed.php">About: Noj</a>
+<a href="/revealed.php">About: Noj</a>
 </td></tr>
 <tr><td>
-<a href="http://noj.ugtech.net/media.php">Media</a>
+<a href="/media.php">Media</a>
 </td></tr>
 <tr><td>
 <a href="">stuff</a>
@@ -28,13 +28,13 @@
 
 
 <br>
-<img src="http://noj.ugtech.net/images/notecoffee.png">
+<img src="/images/notecoffee.png">
 
 </td></tr>
 </table>
 </tr></td>
 <tr><td align="center">
-Copyright <a href="http://noj.ugtech.net/contact.php">Noj</a> © 2005
+Copyright <a href="/contact.php">Noj</a> © 2005
 <br><br>
 </td></tr>
 </table>
