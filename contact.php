@@ -1,12 +1,12 @@
 <html>
 <head>
 <title> Contact Info. </title>
-<link rel="stylesheet" href="http://noj.ugtech.net/src/main.css" type="text/css">
-<script src="http://noj.ugtech.net/src/email.js" type='text/javascript'></script>
+<link rel="stylesheet" href="/src/main.css" type="text/css">
+<script src="/src/email.js" type='text/javascript'></script>
 </head>
 
 <?php
-include('http://noj.ugtech.net/src/headTemplate.inc');
+include('/src/headTemplate.inc');
 ?>
 
 <h3>Contact Info.</h3>
@@ -17,5 +17,5 @@ Email: <a href='javascript:set()'>noj at noj.ugtech.net</a> - Yes, I'm that para
 I guess that's that.
 
 <?php
-include('http://noj.ugtech.net/src/endTemplate.inc');
+include('/src/endTemplate.inc');
 ?>

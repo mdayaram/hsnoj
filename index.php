@@ -34,7 +34,7 @@ Oh yes, a <a href="media.php">media</a> page is added! And it's almost empty! Ho
 Sweet justice! Linky:  <a href="http://www.freenation.tv/hotellostliberty2.html" target="justice">http://www.freenation.tv/hotellostliberty2.html</a>
 <br><br>
 <h3> June 28, 2005</h3>
-A nice little random update.  Nothing new really on the site, except maybe the <a href="http://noj.ugtech.net/revealed.php">bio</a> thing.  A lot of 'behind the scenes' updates, though.  Many changes in the programming part of the layout.  Obviously you guys don't notice any change, but if you're like me and view the source of every page you visit, you should see great improvements.  Granted you can't see the php code, but at least you get a glimpse of the javascript.  w00t for javascript.
+A nice little random update.  Nothing new really on the site, except maybe the <a href="/revealed.php">bio</a> thing.  A lot of 'behind the scenes' updates, though.  Many changes in the programming part of the layout.  Obviously you guys don't notice any change, but if you're like me and view the source of every page you visit, you should see great improvements.  Granted you can't see the php code, but at least you get a glimpse of the javascript.  w00t for javascript.
 <br><br>
 <h3> June 26, 2005</h3>
 It never seizes to amaze me.  Screwed for a fourth time.<br>

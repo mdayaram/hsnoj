@@ -3,7 +3,7 @@
 <title>
 Noj, Revealed!
 </title>
-<link rel="stylesheet" href="http://noj.ugtech.net/src/main.css" type="text/css">
+<link rel="stylesheet" href="/src/main.css" type="text/css">
 <style type="text/css"><!--
 td.type{ font-weight: bold; text-align: left; vertical-align: text-top;}
 td.resp{ text-align: left; vertical-align: text-bottom;}
@@ -11,7 +11,7 @@ td.resp{ text-align: left; vertical-align: text-bottom;}
 </style>
 </head>
 <?php
-include('http://noj.ugtech.net/src/headTemplate.inc');
+include('/src/headTemplate.inc');
 ?>
 <h3>"You're sexy and brown, share it with the world!" <small>~Lawson Bake</small></h3>
 OK!
@@ -135,7 +135,7 @@ Browser of Choice:
 Music:
 </td>
 <td class="resp">
-Favorite Bands - Nine Inch Nails, Led Zeppelin, Stone Temple Pilots, Smashing Pumpkins, A Perfect Circle, Soundgarden, Nirvana, Incubus, The Beatles, Queen, Garbage, Jefferson Airplane, AFI.  <a href="http://noj.ugtech.net/playlist.html" target="playlist">Full List</a>.
+Favorite Bands - Nine Inch Nails, Led Zeppelin, Stone Temple Pilots, Smashing Pumpkins, A Perfect Circle, Soundgarden, Nirvana, Incubus, The Beatles, Queen, Garbage, Jefferson Airplane, AFI.  <a href="/playlist.html" target="playlist">Full List</a>.
 </td>
 </tr>
 <tr><td class="type">
@@ -286,8 +286,8 @@ Bored, tired, single, brown.
 </center>
 <br>
 *Apparently, I am now weak.<br><br><br>
-Not enough?!?  Need more Noj??!  <a href="http://noj.ugtech.net/contact.php">Email me</a> with questions and I'll post them up here.
+Not enough?!?  Need more Noj??!  <a href="/contact.php">Email me</a> with questions and I'll post them up here.
 
 <?php
-include('http://noj.ugtech.net/src/endTemplate.inc');
+include('/src/endTemplate.inc');
 ?>
