@@ -1,0 +1,1 @@
+Added comment boxes under each applet.  Tell me what you think.  If it's good enough, I might actually change the applet to match your thoughts.  If it isn't, I'll obviously ignore it.  Overall, it's all in good fun.
