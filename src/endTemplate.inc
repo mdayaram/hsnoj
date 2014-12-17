@@ -34,7 +34,7 @@
 </table>
 </tr></td>
 <tr><td align="center">
-Copyright <a href="/contact.php">Noj</a> © 2005
+Copyright <a href="/contact.php">Noj</a> &copy; 2005
 <br><br>
 </td></tr>
 </table>
