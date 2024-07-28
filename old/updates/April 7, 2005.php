@@ -1,1 +1,0 @@
-Ok, so yeah, links are fixed, they didn't work before if you didn't notice.  But yeah, now everything works, everything's fine.  Go..enjoy yourself or whatever.  Good times.

@@ -1,1 +1,0 @@
-Well, I got the applets to work, some problem with the folder and how php calls things into a page and whatnot.  Instead of trying to be organized and putting things into folders I should've just stuck everything in main in the first place.  Oh well.

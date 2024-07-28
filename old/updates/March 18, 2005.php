@@ -1,1 +1,0 @@
-Fifth place...out of 46 teams in New Jersey.  I did 4 out of the 5 programs we submitted.  One of the programs I did, however, was incorrect.  If it wasn't for that, we would've gotten second place.  Depression strikes...also, php is being a bitch, nothing new for now.

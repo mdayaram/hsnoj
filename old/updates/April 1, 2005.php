@@ -1,1 +1,0 @@
-Ok...something went wrong with the hiya-host.us server, so my whole account got deleted.  That's ok though, I had all my stuff backed up except the comments, which who cares about, anyways?   Anyways, site is now moved to, well, here, at noj.hiya-host.com.  Everything should be working fine, if it doesn't, then too bad.

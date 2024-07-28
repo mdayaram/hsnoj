@@ -1,1 +1,0 @@
-Computer Science competition is tomorrow, time to see if my mad skills can kick the ass I've always talked about.  It shouldn't be a problem, I mean, come on, Name.get()?  Please, I can kick any programs ass.  Not to mention this little piece of beauty all typed up from notepad that you see before you.  Anyways, news on that and the site up tomorrow, fun.
