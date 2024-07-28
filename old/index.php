@@ -47,8 +47,8 @@ background-position: center;
 Stuff!<br><br>
 </b></center>
 
-<a href="index.php?name=Home&page=home.php">Home</a><br>
-<a href="index.php?name=Guest Book&page=gb/index.html">Guest Book</a><br>
+<a href="index.html?name=Home&page=home.html">Home</a><br>
+<a href="index.html?name=Guest Book&page=gb/index.html">Guest Book</a><br>
 
 </td></tr>
 
@@ -57,12 +57,12 @@ Stuff!<br><br>
 Applets<br><br>
 </b></center>
 
-<a href="index.php?id=1&name=Calculator Applet&page=applets/calculator.php">Calculator</a><br>
-<a href="index.php?name=5 Card Draw Poker&page=applets/poker.php">Five Card Draw</a><br>
-<a href="index.php?name=Binary Clock&page=applets/bclock.php">Binary Clock</a><br>
-<a href="index.php?name=Number Guess Applet&page=applets/nguess.php">Number Guessing Game</a><br>
-<a href="index.php?name=Craps Applet&page=applets/craps.php">Craps Game</a><br>
-<a href="index.php?name=SAT Vocab Test&page=applets/satvocab.php">Vocab Test</a><br>
+<a href="index.html?id=1&name=Calculator Applet&page=applets/calculator.html">Calculator</a><br>
+<a href="index.html?name=5 Card Draw Poker&page=applets/poker.html">Five Card Draw</a><br>
+<a href="index.html?name=Binary Clock&page=applets/bclock.html">Binary Clock</a><br>
+<a href="index.html?name=Number Guess Applet&page=applets/nguess.html">Number Guessing Game</a><br>
+<a href="index.html?name=Craps Applet&page=applets/craps.html">Craps Game</a><br>
+<a href="index.html?name=SAT Vocab Test&page=applets/satvocab.html">Vocab Test</a><br>
 
 </td>
 </tr>
@@ -71,17 +71,22 @@ Applets<br><br>
 
 <td width=58% valign=top><center>
 <table width=100% border=0 cellpadding=10 cellspacing=5><tr><td width=100% valign=center height=50 class="header">
-<center><b><font color=black>
+<center><b><font color=black id=title>
 
+</font></b></center></td></tr>
+<tr><td bgcolor=black width=100% valigh=top align=left>
+<center><table width=90% border=0 cellpadding=0 cellspacing=0><tr><td valign=top id=content>
+<!-- Old PHP code that is being replaced with javascript below
 <?php
-
+/*
 if(isset($_GET['name'])){
    echo $_GET['name'];
 }else{
    echo 'Home';
 }
 
-echo '</b></center></font></td></tr>';
+
+echo '</font></b></center></td></tr>';
 echo '<tr><td bgcolor=black width=100% valigh=top align=left>';
 echo '<center><table width=90% border=0 cellpadding=0 cellspacing=0><tr><td valign=top>';
 
@@ -90,13 +95,14 @@ if(isset($_GET["page"])){
 }else{
    include("home.php");
 }
-
+*/
 ?>
+-->
 
 </td></tr>
 <tr><td valign=bottom align=center>
 <br><br><br>
-<a href="index.php?name=Copyright&page=copyright.php">Copyright &copy; 2005.</a>
+<a href="index.html?name=Copyright&page=copyright.html">Copyright &copy; 2005.</a>
 </tr></td></table></center>
 
 </td></tr>
@@ -137,6 +143,33 @@ Misc.<br><br>
 </td></tr></table><br><font size=1>
 [ Your Mom is my #1 Fan. ]</font>
 </center>
+
+<script>
+myContentSpace = document.getElementById('content');
+myTitleSpace = document.getElementById('title');
+const urlParams = new URLSearchParams(window.location.search);
+
+// Set the title
+const myName = urlParams.get('name');
+let name = 'Home';
+if (myName != null) {
+   name = myName;
+}
+myTitleSpace.innerHTML = name;
+
+// Set the page content
+const myPage = urlParams.get('page');
+let url = 'home.html'
+if (myPage != null) {
+  url = myPage;
+}
+fetch(url, { method: "GET" })
+  .then(function(response) { return response.text() })
+  .then(function(html) { myContentSpace.innerHTML = html })
+  .catch(function(err) { console.log('Failed to fetch page: ', err) });
+
+</script>
+
 </body>
 </html>
 
